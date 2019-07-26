@@ -583,7 +583,6 @@ section {
 	margin-bottom: 20px;
 }
 .search-button{
-    background-color: #2ec06c;
 	border: none;
 	border-radius:10px;
     color:#fff;
@@ -593,7 +592,22 @@ section {
     display: inline-block;
     font-size: 15px;
     margin: 1px;
-    cursor: pointer;
+	cursor: pointer;
+	background-color: #95e1d3;
+
+}
+.search-button2{
+	border: #95e1d3 2px;
+	border-radius:10px;
+    color:#95e1d3;
+    padding: 3px 8px 3px 8px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 1px;
+	cursor: pointer;
+	background-color: white;
 
 }
 .seniorview{
